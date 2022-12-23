@@ -8,7 +8,13 @@
 - 💞️ I’m looking for an internship in 2023.
 - 📫 How to reach me :
 - [My Resume](https://gorgeamiel.github.io/My_Resume/)
+
+<p align="center">
+    <img src="/my_resume_website_qr_code.png"/>
+</p>
+
 - [My Linkedin](https://www.linkedin.com/feed/)
+- [My Mail](antoine.deselyslongchamps.pro@gmail.com)
 
 
 <!---
