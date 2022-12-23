@@ -14,7 +14,7 @@
 </p>
 
 - [My Linkedin](https://www.linkedin.com/feed/)
-- <a href="antoine.deselyslongchamps.pro@gmail.com">My Mail</a>
+- <a href="/antoine.deselyslongchamps.pro@gmail.com">My Mail</a>
 
 
 <!---
