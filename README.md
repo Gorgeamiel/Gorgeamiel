@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="/penguin.png"/>
+</p>
+
 - 👋 Hi, I’m @Gorgeamiel
 - 👀 I’m interested in development, coding, history and 7th art.
 - 🌱 I’m currently student at ICHEC Brussels Management School in Belgium, achieving a post master in Business & Management.
