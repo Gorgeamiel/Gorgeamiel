@@ -1,19 +1,21 @@
+# 👋 Hi, Welcome on my Github Profile ! 
+------------------------------------------------
+
 <p align="center">
     <img src="/penguin.png"/>
 </p>
 
-- 👋 Hi, I’m @Gorgeamiel
 - 👀 I’m interested in development, coding, history and 7th art.
-- 🌱 I’m currently student at ICHEC Brussels Management School in Belgium, achieving a post master in Business & Management.
-- 💞️ I’m looking for an internship in 2023.
-- 📫 How to reach me :
-- [My Resume](https://gorgeamiel.github.io/My_Resume/)
+
+- 🎓 I’m currently student at ICHEC Brussels Management School in Belgium, achieving a post master in Business & Management.
+
+- 📫 Check my [CV](https://gorgeamiel.github.io/My_Resume/)
 
 <p align="center">
     <img src="/my_resume_website_qr_code.png"/>
 </p>
 
-- [My Linkedin](https://www.linkedin.com/feed/)
+- 💬 Connect on [LinkedIn](https://www.linkedin.com/feed/)
 
 
 <!---
