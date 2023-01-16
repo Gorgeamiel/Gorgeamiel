@@ -9,13 +9,13 @@
 
 - 🎓 I’m currently student at ICHEC Brussels Management School in Belgium, achieving a post master in Business & Management.
 
-- 📫 Check my [CV](https://gorgeamiel.github.io/My_Resume/)
+- 📫 Check my [CV-Resume.](https://gorgeamiel.github.io/My_Resume/)
 
 <p align="center">
     <img src="/my_resume_website_qr_code.png"/>
 </p>
 
-- 💬 Connect on [LinkedIn](https://www.linkedin.com/feed/)
+- 💬 Connect on [LinkedIn.](https://www.linkedin.com/feed/)
 
 
 <!---
