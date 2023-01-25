@@ -11,7 +11,7 @@
 
 - 💬 Connect on [LinkedIn.](https://www.linkedin.com/feed/)
 
-- 📫 Check my [CV-Resume.](https://gorgeamiel.github.io/My_Resume/)
+- 📫 Check my [CV-Resume.](https://gorgeamiel.github.io/MY_RESUME-Website/)
 
 <p align="center">
     <img src="/my_resume_website_qr_code.png"/>
