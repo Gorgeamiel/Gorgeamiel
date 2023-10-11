@@ -5,9 +5,9 @@
     <img src="/penguin.png"/>
 </p>
 
-- 👀 I’m interested in development, coding, history and 7th art.
+-  👀 Open to Work.
 
-- 🎓 I’m currently student at ICHEC Brussels Management School, achieving a Post Master in Business & Management.
+-  🎓 I’m interested in development, coding, history and 7th art.
 
 - 💬 Connect on [LinkedIn.](https://www.linkedin.com/feed/)
 
